@@ -46,7 +46,7 @@ const Footer: React.FC = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.3 }}
           >
-            <span>Made with</span>
+            <span>Made by Itsraj786iul with</span>
             <Heart size={14} className="mx-1 text-primary-400" fill="#f472b6" />
             <span>in {currentYear}</span>
           </motion.div>
