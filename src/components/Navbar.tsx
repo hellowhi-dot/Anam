@@ -64,7 +64,7 @@ const Navbar: React.FC = () => {
           >
             <Send size={24} className={`mr-2 ${isScrolled ? 'text-primary-600' : 'text-white'}`} />
             <span className={`font-serif text-xl font-semibold ${isScrolled ? 'text-gray-800' : 'text-white'}`}>
-              WanderSoul
+              WanderSoul-AnamSharif
             </span>
           </motion.div>
 
